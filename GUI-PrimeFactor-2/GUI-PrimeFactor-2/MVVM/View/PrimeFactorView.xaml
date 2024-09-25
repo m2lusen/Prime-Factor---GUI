@@ -1,0 +1,18 @@
+﻿<Window x:Class="GUI_PrimeFactor_2.MVVM.View.PrimeFactorView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_PrimeFactor_2.MVVM.View"
+        Title="Prime Factorization" Height="250" Width="400">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Enter a number:" Margin="10"/>
+            <TextBox Text="{Binding InputNumber}" Width="200" Margin="10" HorizontalAlignment="Center"/>
+            <Button Content="Calculate" Command="{Binding CalculateCommand}" Width="100" Margin="10" HorizontalAlignment="Center"/>
+            <TextBlock Text="Prime Factors:" Margin="10"/>
+            <!-- Binding to the new PrimeFactorsString property -->
+            <TextBlock Text="{Binding PrimeFactorsString}" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>

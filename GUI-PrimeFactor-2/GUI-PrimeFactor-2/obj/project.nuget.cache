@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ASxM3oAkDq01BzbLqtWXHSjAtsF9R0RLuzGBlq+TguuXR9K1+AiJoYBadM8S+aBrPv9U6CBgAC/rO5fDiVuYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m2lus\\Documents\\C++\\my_work\\GUI-PrimeFactor-2\\GUI-PrimeFactor-2\\GUI-PrimeFactor-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m2lus\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\unity.abstractions\\5.11.7\\unity.abstractions.5.11.7.nupkg.sha512",
+    "C:\\Users\\m2lus\\.nuget\\packages\\unity.container\\5.11.11\\unity.container.5.11.11.nupkg.sha512"
+  ],
+  "logs": []
+}
